@@ -1,0 +1,9 @@
+.nav-link:hover{
+  color: rgb(214, 214, 214) !important;
+}
+.no-underline{
+  text-decoration:none;
+}
+.color-light{
+  color:whitesmoke;
+}
